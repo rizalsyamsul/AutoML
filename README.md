@@ -1,2 +1,2 @@
 # AutoML
-Final Project for Advanced Machine Learning 
+Classification System for Weather Prediction using Automated Machine Learning
